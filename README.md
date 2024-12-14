@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.7  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -28,10 +28,9 @@
 ### The motive behind slicing a 3D model is to transform the model into guidelines for the 3D printer. To play out this errand, the slicing software isolates the item into numerous layers. It's classified "slicing" since it "slices" the 3D model to make numerous layers. After the layers have been made, the slicing software applies different qualities to every one of them.
 
 ### d. Path Planning:
-### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
+### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.(https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
-
 ### ●	All the processes related to pre-processing will be shown on the screen.
 ### ●	Select CAD file preparation from the visible list.
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
@@ -39,14 +38,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-11-29 at 14 16 47_7c8ced2d](https://github.com/user-attachments/assets/3fbbf46f-b78d-4b7c-94cc-8bba0b7dd4a3)
+![WhatsApp Image 2024-11-29 at 14 16 47_52398c7d](https://github.com/user-attachments/assets/6ddc9bbe-8609-4f60-a98a-19cd4bcd1783)
+![WhatsApp Image 2024-11-29 at 14 16 48_ffab5537](https://github.com/user-attachments/assets/40598c86-c03b-4b11-8f4a-e3e0abc14fbf)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SHARON CLARA A
+### Register Number:24900191
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
