@@ -46,6 +46,8 @@
 
 ### Name: SHARON CLARA A
 ### Register Number:24900191
+![image](https://github.com/user-attachments/assets/9b2ebd44-873b-4d9d-8869-e09c6f7dbb8e)
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
